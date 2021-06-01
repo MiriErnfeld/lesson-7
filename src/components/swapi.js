@@ -18,9 +18,13 @@ export default function Swapi() {
 
             <input type="number" onChange={(e) => setId(e.target.value)} />
 
-            <h2>id:{Data.id}</h2>
-            <h2>name:{name}</h2>
-            <h2>hairColor:{hair}</h2>
+            <h2><label>id  :</label>{Data.id}</h2>
+            <h2>
+                <label>name   :</label>{Data.name}
+            </h2>
+            <h2>
+                <label>hairColor :</label>{Data.hairColor}
+            </h2>
         </>
     )
 }
