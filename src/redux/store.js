@@ -14,4 +14,4 @@ const store = createStore(reducer, applyMiddleware(getDataFromSwapi));
 
 window.store = store;
 export default store;
-
+// store.dispatch({ type: 'SET_CURRENT_DATA', payLoad: '3' });
