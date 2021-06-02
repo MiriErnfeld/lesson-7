@@ -8,7 +8,6 @@ export default function Swapi() {
 
     function setId(id) {
         debugger
-
         dispatch(actions.setCurrentData(id));
         // dispatch(actions.setId(id));
     }
