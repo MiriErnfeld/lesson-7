@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Wed Jun 02 2021 11:41:54 GMT+0300 (שעון ישראל (קיץ))
+------------------------------------------------------
+
+Modified files:
+* src/components/swapi.js
+
+
+Created files:
+* .autogit/logs/log-2-5-2021-11-11-33.txt
+
+
+Deleted files:
+
+
+Renamed files:
