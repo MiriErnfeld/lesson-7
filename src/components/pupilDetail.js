@@ -5,7 +5,7 @@ import { withRouter, useParams } from 'react-router-dom'
 import data from '../redux/reducers/data';
 
 export default withRouter(function PupilDetails(props) {
-
+  
     const { id } = useParams()
 
     const Data = useSelector(state => state.pupils)
